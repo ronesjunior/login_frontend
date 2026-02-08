@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar__logo {
+  margin-left: 30px;
+}
+
+.navbar__nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.navbar__link {
+  margin-left: 10px;
+  margin-right: 30px;
+}
